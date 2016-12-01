@@ -1,3 +1,5 @@
+[![BCH compliancy](https://bettercodehub.com/edge/badge/MichielCuijpers/openpilot)](https://bettercodehub.com)
+
 Welcome to openpilot
 ======
 
